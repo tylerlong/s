@@ -1,2 +1,0 @@
-# s
-static assets hosting
